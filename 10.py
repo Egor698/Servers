@@ -50,7 +50,7 @@ while True:
 
   elif comandMsgGet == "@" and "/getadmin":
       player.statusGet = "Админ"
-      print("Игроку @ выдан статус")
+      print("Игроку @ выдан статус админ")
 
  except ValueError:
      chat()
