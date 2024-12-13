@@ -6,7 +6,7 @@ banList = []
 class plaeyrClas:
    banGet = False
    statusGet = "Игрок"
-   onlain = False
+   onlain = True
 
 player = plaeyrClas()
 banGet = False
